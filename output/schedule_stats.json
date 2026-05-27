@@ -1,0 +1,10 @@
+{
+  "algorithm": "greedy",
+  "fitness": 1766.7381,
+  "total_courses": 346,
+  "assigned_courses": 176,
+  "unassigned_courses": 170,
+  "conflicts": 0,
+  "rooms_used": 10,
+  "assignment_rate": 50.87
+}

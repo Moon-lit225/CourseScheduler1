@@ -1,0 +1,14 @@
+{
+  "courses": 92,
+  "rooms": 62,
+  "demand_hours": 138,
+  "supply_hours": 10754,
+  "demand_supply_ratio": 0.012832,
+  "capacity_feasible_ratio": 1.0,
+  "teacher_complete_ratio": 1.0,
+  "risk_flags": {
+    "oversubscribed": false,
+    "capacity_mismatch": false,
+    "teacher_data_incomplete": false
+  }
+}
